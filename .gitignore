@@ -1,0 +1,8 @@
+# Planilhas e extratos gerados nunca entram no repositório
+*.xlsx
+*.pdf
+
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
